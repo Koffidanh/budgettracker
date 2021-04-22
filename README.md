@@ -37,7 +37,7 @@
   No Test required. 
 ## Video demo
 Here is the demo video.
-![demo](https://github.com/Koffidanh/burger/blob/main/images/demo.gif)
+![demo](https://github.com/Koffidanh/budgettracker/blob/main/images/demo.gif)
  ## License
  Licensed under the MIT.
   

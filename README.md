@@ -13,7 +13,7 @@
    ### * [License](#license)
  
  ## Installation
- To run this application, the user needs to fork the repo and then install the dependencies by typing 'npm i" into the terminal. And to run the application, the user needs to run "npm server".
+ To run this application, the user needs to fork the repo and then install the dependencies by typing 'npm i" into the terminal. And to run the application, the user needs to run "node server".
  ## Usage
  Here is the step by step to operate this application.
 
